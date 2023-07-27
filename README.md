@@ -42,8 +42,7 @@ Contributions to Ice Cream Cream App project are accepted as it represents a per
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed for your own practice and learning purposes.
 
-You can access the ice-cream-app website below:
-
+# You can access the ice-cream-app website below:
 https://ice-cream-app.netlify.app/
 
 Happy Coding!
