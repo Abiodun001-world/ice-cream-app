@@ -7,7 +7,7 @@ function Page() {
 
   return (
     <div className="container">
-      <h1>People entered:</h1>
+      <h1>People Entered:</h1>
       <h2 className="count-el">{count}</h2>
       
       {/* Use the dynamic functions with the state variables and setter functions */}
