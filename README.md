@@ -1,6 +1,6 @@
 #  Ice Cream Cream App
 
-The Ice Cream Cream Station is a web application project built with HTML, CSS, and JavaScript. It serves as a practice project to enhance your front-end development skills and JavaScript programming. The project focuses on creating a simple application to count the number of people entering an ice cream shop.
+The Ice Cream Cream Station is a web application project built with HTML, CSS, and JavaScript(turned it into a react library). It serves as a practice project to enhance your front-end development skills and JavaScript programming. The project focuses on creating a simple application to count the number of people entering an ice cream shop.
 
 ## Table of Contents
 
@@ -41,5 +41,9 @@ Contributions to Ice Cream Cream App project are accepted as it represents a per
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed for your own practice and learning purposes.
+
+You can access the ice-cream-app website below:
+
+https://ice-cream-app.netlify.app/
 
 Happy Coding!
