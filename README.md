@@ -1,6 +1,6 @@
 #  Ice Cream Cream App
 
-The Ice Cream Cream Station is a web application project built with HTML, CSS, and JavaScript(turned it into a react library). It serves as a practice project to enhance your front-end development skills and JavaScript programming. The project focuses on creating a simple application to count the number of people entering an ice cream shop,inspired by a project at the Scrimba.
+The Ice Cream Cream Station is a web application project built with HTML, CSS, and JavaScript(turned it into a react library). It serves as a practice project to enhance my front-end development skills and JavaScript programming. The project focuses on creating a simple application to count the number of people entering an ice cream shop,inspired by a project at the Scrimba.
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ These features provide a straightforward and intuitive way to keep track of the 
 To get started with The Ice Cream Cream Station project, follow these steps:
 
 1. Clone or download this repository to your local machine.
-2. You are already in the project folder(run npm start to view the output of the files).
+2. You are already in the project folder(run `npm start` to view the output of the files).
 3. Interact with the increment and decrement buttons to adjust the count.
 
 Feel free to customize and enhance the project as you practice your HTML, CSS, and JavaScript skills(implement it on React). You can modify the styles, add additional functionality, or improve the user interface to suit your preferences.

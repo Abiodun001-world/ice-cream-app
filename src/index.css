@@ -53,6 +53,7 @@
   }
   .increment-btn,.decrement-btn,.save-btn { 
     margin: 4px;
+    cursor: pointer;
   }
   
   .time {
